@@ -1,0 +1,7 @@
+/home/gergo/Asztal/Suli/Webes megoldások/2. projekt/backend/src/main/java/com/unideb/Main.java
+/home/gergo/Asztal/Suli/Webes megoldások/2. projekt/backend/src/main/java/com/unideb/Student.java
+/home/gergo/Asztal/Suli/Webes megoldások/2. projekt/backend/src/main/java/com/unideb/error/StudentNotFoundException.java
+/home/gergo/Asztal/Suli/Webes megoldások/2. projekt/backend/src/main/java/com/unideb/StudentController.java
+/home/gergo/Asztal/Suli/Webes megoldások/2. projekt/backend/src/main/java/com/unideb/error/StudentUnSupportedFieldPatchException.java
+/home/gergo/Asztal/Suli/Webes megoldások/2. projekt/backend/src/main/java/com/unideb/error/CustomGlobalExceptionHandler.java
+/home/gergo/Asztal/Suli/Webes megoldások/2. projekt/backend/src/main/java/com/unideb/StudentRepository.java
